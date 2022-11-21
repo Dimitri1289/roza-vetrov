@@ -151,6 +151,5 @@ function output_err($num)
 </section>
 <br /><br />
 <?php include 'bloks/bottom_menu_n.php'; ?>
-
  </body>
 </html>
