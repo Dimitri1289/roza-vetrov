@@ -1,13 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
-/* стили для дектопа */
+/* стили для альбомной ориентации */
 @media screen and (orientation:landscape) {
 .orentation{ background-image:url(../img/m_h1.jpg); background-repeat:no-repeat; width:100%; height:100%; position:fixed; z-index:999999}
 h1 {visibility: hidden}
 }
 
-/* стили для мобильного */    
+/* стили для портретной ориентации  */    
 @media screen and (orientation:portrait) { 
 
 
