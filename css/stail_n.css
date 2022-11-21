@@ -1,10 +1,4 @@
 @charset "utf-8";   
-/* стили для дектопа */
-@media screen and (orientation:landscape) {}
-
-/* стили для мобильного */    
-@media screen and (orientation:portrait) {} 
-
 /* Основные тэги */
 
 h1 { 
