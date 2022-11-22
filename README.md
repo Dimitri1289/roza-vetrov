@@ -19,7 +19,3 @@
  ---
 >''' <img alt="logo" src="logo.png" width="100px" stail="vertical-align:bottom"> ''' <br>
 >>[Перейти на сайт организации](https://roza-vetrov.pro)
----
-
-
- 
