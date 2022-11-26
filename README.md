@@ -9,7 +9,7 @@
 >  скрипт фотогалереи. При смене разметки на HTML5 документы стали валидными. Конечно же сайт требует дороботок, из мобильной версии только индексная страница почти 
 >  доведена до ума, остальные требуют доработки.
 >> В репозитории не весь сайт, а некоторые на мой взгляд интересные для вас файлы. Архитектура сайта схожа с
->>  [https://github.com/Dimitri1289/zarobotok_v_seti.git](https://github.com/Dimitri1289/zarobotok_v_seti.git) 
+>>  [https://github.com/Dimitri1289/zarobotok_v_seti.git](https://github.com/Dimitri1289/frilans.git) 
  ---
  >Используемые технологии:
  >> HTML5 | CSS3 | PHP | JavaSkript |
